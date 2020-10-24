@@ -1,4 +1,4 @@
-¯ÿ“_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"135";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-19 20:00:39";s:13:"post_date_gmt";s:19:"2020-10-19 20:00:39";s:12:"post_content";s:3537:"<!-- wp:paragraph -->
+..”_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"135";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-19 20:00:39";s:13:"post_date_gmt";s:19:"2020-10-19 20:00:39";s:12:"post_content";s:3537:"<!-- wp:paragraph -->
 <p>Mungkin baru mendengar kata â€œLinuxâ€, sudah terbayang hal-hal yang sulit dan ribet. Sebenarnya enggak ribet kok!.</p>
 <!-- /wp:paragraph -->
 
