@@ -1,0 +1,19 @@
+[21/Oct/2020:12:39:24] (I): WordPress Instance Info:
+[21/Oct/2020:12:39:24] (I): Home URL : http://localhost/wordpressngurah
+[21/Oct/2020:12:39:24] (I): Site URL : http://localhost/wordpressngurah
+[21/Oct/2020:12:39:24] (I): WordPress Version : 5.5.1
+[21/Oct/2020:12:39:24] (I): Onboarding Version : 1.0.11
+[21/Oct/2020:12:39:24] (I): Multisite : No
+[21/Oct/2020:12:39:24] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10
+[21/Oct/2020:12:39:24] (I): PHP Version : 7.4.10
+[21/Oct/2020:12:39:24] (I): HTTPS : No
+[21/Oct/2020:12:39:24] (I): PHP Max Execution Time : 120
+[21/Oct/2020:12:39:24] (I): PHP Max Input Vars : 1000
+[21/Oct/2020:12:39:24] (I): Max Upload Size : 41943040
+[21/Oct/2020:12:39:24] (I): Plugins:
+[21/Oct/2020:12:39:24] (I): [PLUGIN] iThemes Security : v7.9.0 (iThemes)
+[21/Oct/2020:12:39:24] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.8 (ThemeIsle)
+[21/Oct/2020:12:39:24] (I): [PLUGIN] SyntaxHighlighter Evolved : v3.5.5 (Alex Mills (Viper007Bond))
+[21/Oct/2020:12:39:24] (I): [PLUGIN] Templates Patterns Collection : v1.0.11 (ThemeIsle)
+[21/Oct/2020:12:39:24] (I): [PLUGIN] WP Dark Mode : v1.2.2 (WPPOOL)
+[21/Oct/2020:12:39:24] (I): [PLUGIN] WPForms Lite : v1.6.2.3 (WPForms)
